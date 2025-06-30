@@ -12,8 +12,9 @@ FIRST Download
 5. Import expense_budget_db.sql file
 
 Run the script http:/catering
+
 **LOGIN DETAILS** 
 
-Admin
 user: admin
+
 password: admin123

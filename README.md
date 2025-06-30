@@ -16,4 +16,4 @@ Run the script http:/catering
 
 Admin
 user: admin
-pass: admin123
+password: admin123

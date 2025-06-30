@@ -1,9 +1,9 @@
 # Budget-Managment-System
 FIRST Download
 
-1.XAMPP
+1. XAMPP
 
-2."TEXT EDITOR" NOTEPAD++, SUBLIME TEXT, VS CODE
+2. "TEXT EDITOR" NOTEPAD++, SUBLIME TEXT, VS CODE
 
 3. Open PHPMyAdmin (http://localhost/phpmyadmin)
 
@@ -11,7 +11,7 @@ FIRST Download
 
 5. Import expense_budget_db.sql file
 
-7.Run the script http:/catering
+Run the script http:/catering
 **LOGIN DETAILS** 
 
 Admin
